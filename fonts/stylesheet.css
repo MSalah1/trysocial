@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'font';
+    src: url('cocon_next_arabic-light.eot');
+    src: url('cocon_next_arabic-light.eot?#iefix') format('embedded-opentype'),
+         url('cocon_next_arabic-light.woff2') format('woff2'),
+         url('cocon_next_arabic-light.woff') format('woff'),
+         url('cocon_next_arabic-light.ttf') format('truetype'),
+         url('cocon_next_arabic-light.svg#cocon_next_arabicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
